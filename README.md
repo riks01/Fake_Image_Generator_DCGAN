@@ -26,5 +26,5 @@ Link: [https://www.kaggle.com/soumikrakshit/anime-faces](https://www.kaggle.com/
 |:--:| 
 
 ## Screen shot of the GUI (streamlit)
-| ![GUI](stream_ss.png) |
+| ![GUI](stream_ss.jpeg) |
 |:--:|
