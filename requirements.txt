@@ -3,4 +3,3 @@ streamlit
 matplotlib
 Pillow
 numpy
-glob
