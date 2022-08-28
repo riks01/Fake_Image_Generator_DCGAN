@@ -174,7 +174,7 @@ if __name__ == "__main__":
     ## Hyperparameters
     batch_size = 128
     latent_dim = 128
-    num_epochs = 1000
+    num_epochs = 60
     images_path = glob("data/*")
 
     d_model = build_discriminator()
